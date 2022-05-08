@@ -12,4 +12,4 @@ weakson
 
 我最喜歡的三件事
 ---------------
-coding, speedcubing, listening music 
+coding, speedcubing, listen to music 
