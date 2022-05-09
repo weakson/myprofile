@@ -1,8 +1,8 @@
-姓名
+Name
 ----
 吳冠昱
 
-日期
+Birthday
 ----
 2006/08/23
 
@@ -10,6 +10,6 @@ Github Username
 ---------------
 weakson
 
-我最喜歡的三件事
+My Three Favorite Thing
 ---------------
 coding, speedcubing, listen to music 
